@@ -36,6 +36,8 @@ Contributions to the Farmer and Seller Commission App are welcome! To contribute
 The Farmer and Seller Commission App is licensed under the MIT License. See LICENSE for more information.
 
 ## Sample
+![image](https://user-images.githubusercontent.com/68496221/229081687-ea63cebf-284a-4d79-bf01-0efe86852ec2.png)
+
 
 ## Contact
 
