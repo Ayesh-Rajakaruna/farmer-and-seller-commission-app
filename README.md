@@ -37,6 +37,7 @@ The Farmer and Seller Commission App is licensed under the MIT License. See LICE
 
 ## Sample
 ![image](https://user-images.githubusercontent.com/68496221/229081687-ea63cebf-284a-4d79-bf01-0efe86852ec2.png)
+![image](https://user-images.githubusercontent.com/68496221/229082175-3c32e4d7-9418-4f90-a79e-9b149c01c723.png)
 
 
 ## Contact
