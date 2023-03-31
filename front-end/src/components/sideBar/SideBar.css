@@ -1,0 +1,24 @@
+.SideBar-Hedder{
+    height: 20vh;
+    width: 100%;
+    display: flex;
+    border-bottom: solid white 1px;
+    align-items: center;
+    justify-content: center;
+
+}
+.User-ditals{
+    display: flex;
+}
+.User-ditals img{
+    width: 100px;
+    height: 100px;
+    padding-left: 0;
+}
+.Sidbar-item{
+    height: 8vh;
+}
+.Sidbar-item:hover{
+    background-color: rgb(24, 23, 24);
+    height: 8vh;
+}

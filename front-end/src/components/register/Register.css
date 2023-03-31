@@ -1,0 +1,45 @@
+/* Styling for full Box */
+.Register-Box{
+    height: 90vh;
+    width: 60%;
+    border: solid white 1px;
+    border-radius: 50px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    display: flex;
+}
+
+/* Styling for Register side */
+.Register-Side{
+    height: 100%;
+    width: 60%;
+}
+.Register-Topic{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Register-Form{
+    height: 90%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Register-Form Form{
+    width: 90%;
+}
+
+/* Styling for Image side */
+.Image-Side{
+    height: 100%;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Side-Image{
+    border-radius: 50px;
+    filter: brightness(120%);
+}
