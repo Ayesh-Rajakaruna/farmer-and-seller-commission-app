@@ -35,6 +35,8 @@ Contributions to the Farmer and Seller Commission App are welcome! To contribute
 
 The Farmer and Seller Commission App is licensed under the MIT License. See LICENSE for more information.
 
+## Sample
+
 ## Contact
 
 If you have any questions or feedback, please contact the app owner at ayeshrajakaruna@gemail.com.
